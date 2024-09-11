@@ -8,10 +8,13 @@ Olá! Meu nome é Andersson Alves e estou empolgado em compartilhar minha jornad
 
 ### O Bootcamp de Engenharia de Dados da NTT Data é um programa intensivo que se concentra em três áreas essenciais para a engenharia de dados:
 
-Python: Para desenvolvimento de scripts e automação de processos de dados.
+Python: Para desenvolvimento de scripts.
+
 Power BI: Para visualização de dados e criação de dashboards interativos.
+
 Spark: Para processamento e análise de grandes volumes de dados.
-Minha Jornada
+
+## Minha Jornada
 
 ### Começo
 Antes de iniciar o bootcamp, eu já tinha alguma experiência com análise de dados, mas o objetivo era aprofundar meus conhecimentos e habilidades em Python, Power BI e Spark. O bootcamp ofereceu a oportunidade ideal para alcançar esse objetivo.
