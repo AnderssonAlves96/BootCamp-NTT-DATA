@@ -29,7 +29,9 @@ Processamento com Spark: Trabalhar com Spark para processar grandes volumes de d
 
 ### Conquistas
 Automação com Python: Desenvolvi scripts para automatizar processos de dados, economizando tempo e aumentando a eficiência.
+
 Dashboards Impactantes no Power BI: Criei dashboards que proporcionaram insights valiosos e ajudaram na tomada de decisões informadas.
+
 Processamento Eficiente com Spark: Implementei soluções de processamento de dados escaláveis usando Spark, o que melhorou a capacidade de lidar com grandes conjuntos de dados.
 
 ### Ferramentas e Tecnologias Utilizadas
